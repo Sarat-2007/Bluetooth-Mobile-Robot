@@ -1,0 +1,15 @@
+# Arduino Compiled Output
+*.hex
+*.elf
+*.bin
+*.eep
+*.d
+*.map
+*.lst
+
+# Serial Monitor Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
